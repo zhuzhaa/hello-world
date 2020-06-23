@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+It is my first repository, that I created by passing the course in coursera.
